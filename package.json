@@ -1,0 +1,20 @@
+{
+  "name": "marcel",
+  "version": "0.0.1",
+  "description": "Personal blog",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelnakamine/marcel.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Marcel Nakamine <marcel.nakamine@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/marcelnakamine/marcel/issues"
+  },
+  "homepage": "https://marcel.nakamine.com.br"
+}
